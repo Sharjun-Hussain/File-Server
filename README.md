@@ -2,19 +2,30 @@
 
 ## Step 01 : Clone Repo using The **URL** Below
 [Repo Link](https://github.com/Sharjun-Hussain/File-Server.git) Copy Link and in Terminal Type
-` $git clone https://github.com/Sharjun-Hussain/File-Server.git`
 
+```bash
+  $git clone https://github.com/Sharjun-Hussain/File-Server.git
+```
 ## Step 02 : Navigate to Root Directory
-` $cd File-Server`
+
+```bash
+  $cd File-Server
+```
 ## Step 03 : Create Folder Named "Uploads" in Root Directory to Store Uploading FIles 
-`$mkdir Uploads`
+```bash
+  $mkdir Uploads
+```
 
 ## Step 04 : In the Root Directory Type  to install Dependacies for this App
-`$npm install`
+```bash
+  $npm install
+```
 
 ## Step 05 : Type " node Server.js" 
-`$node Server.js`
 
+```bash
+  $node Server.js
+```
 
 
 
