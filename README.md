@@ -9,7 +9,7 @@
 ## Step 03 : Create Folder Named "Uploads" in Root Directory to Store Uploading FIles 
 `$mkdir Uploads`
 
-## Step 04 : In the Root Directory Type "npm install" to install Dependacies for this App
+## Step 04 : In the Root Directory Type  to install Dependacies for this App
 `$npm install`
 
 ## Step 05 : Type " node Server.js" 
