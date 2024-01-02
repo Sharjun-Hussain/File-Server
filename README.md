@@ -1,15 +1,30 @@
-Step 01 : Create Folder Named "Uploads" in Root Directory to Store Uploading FIles 
+# FIle Server Using Node JS
 
-IN CMD ------------------------
+## Step 01 : Clone Repo using The **URL** Below
+[Repo Link](https://github.com/Sharjun-Hussain/File-Server.git) Copy Link and in Terminal Type
+` $git clone https://github.com/Sharjun-Hussain/File-Server.git`
 
-Step 01 : in the Root Directory Type "npm install" to install Dependacies for this App
-Step 01 : Type " node Server.js" 
+## Step 02 : Navigate to Root Directory
+` $cd File-Server`
+## Step 03 : Create Folder Named "Uploads" in Root Directory to Store Uploading FIles 
+`$mkdir Uploads`
+
+## Step 04 : In the Root Directory Type "npm install" to install Dependacies for this App
+`$npm install`
+
+## Step 05 : Type " node Server.js" 
+`$node Server.js`
 
 
 
 
 Developed By : Sharjun Hussain | Full-Stack Dev 
-github" : https://github.com/Sharjun-Hussain
-Linkedin" : https://www.linkedin.com/in/sharjun-hussain/
+
+
+[![Static Badge](https://img.shields.io/badge/github-sharjun--hussain-blue)](https://github.com/Sharjun-Hussain)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-sharjun--hussain-blue)](https://www.linkedin.com/in/sharjun-hussain/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
 
 
