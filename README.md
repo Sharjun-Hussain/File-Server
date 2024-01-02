@@ -1,3 +1,5 @@
+# Hi, I'm Sharjun ! 👋
+
 # FIle Server Using Node JS
 
 ## Step 01 : Clone Repo using The **URL** Below
@@ -27,9 +29,8 @@
   $node Server.js
 ```
 
-
-
-Developed By : Sharjun Hussain | Full-Stack Dev 
+## 🚀 About Me
+I'm a full stack developer...
 
 
 [![Static Badge](https://img.shields.io/badge/github-sharjun--hussain-blue)](https://github.com/Sharjun-Hussain)
